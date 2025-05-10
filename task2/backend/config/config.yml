@@ -1,0 +1,5 @@
+http:
+  address: localhost:8080
+  read_timeout: 1m
+  write_timeout: 1m
+  idle_timeout: 1m
